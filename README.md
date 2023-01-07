@@ -1,2 +1,2 @@
-# one
-one
+# RESPONSIVE CLONE
+The Responsive Clone
